@@ -1,2 +1,1 @@
-# Akinori
-Programa para organizar dados usando clusters
+## Aplicando conhecimentos Heuristicos em Python usando o colab
